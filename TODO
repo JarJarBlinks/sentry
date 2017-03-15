@@ -6,3 +6,5 @@
 - Make uninteresting frames in stacktraces opaque
 - Create tailer for apache-style error logs
 - Add hooks for controlling the queue/routing key (via plugins) that messages are sent to.
+
+change
